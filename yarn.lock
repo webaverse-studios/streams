@@ -27,6 +27,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@webaverse-studios/streams@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@webaverse-studios/streams@workspace:."
+  dependencies:
+    "@webaverse-studios/eslint-config": ^1.0.0
+    eslint-plugin-jsdoc: ^39.7.5
+    eslint-plugin-promise: ^6.1.1
+    ospec: ^4.1.7
+  languageName: unknown
+  linkType: soft
+
 "balanced-match@npm:^1.0.0":
   version: 1.0.2
   resolution: "balanced-match@npm:1.0.2"
@@ -250,17 +261,6 @@ __metadata:
   checksum: 92a4dddce62ce1db6fe54a7a839cf85e06abc308fc83b776a55b44e4f1906f02e7ebd506120847039e976bbbad359ea8bdfafb7925eae5cd7e73255f02e0b7d6
   languageName: node
   linkType: hard
-
-"streams@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "streams@workspace:."
-  dependencies:
-    "@webaverse-studios/eslint-config": ^1.0.0
-    eslint-plugin-jsdoc: ^39.7.5
-    eslint-plugin-promise: ^6.1.1
-    ospec: ^4.1.7
-  languageName: unknown
-  linkType: soft
 
 "wrappy@npm:1":
   version: 1.0.2
