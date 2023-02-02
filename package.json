@@ -1,5 +1,5 @@
 {
-  "name": "streams",
+  "name": "@webaverse-studios/streams",
   "version": "0.1.0",
   "description": "Streams and stream accessories",
   "main": "index.js",
