@@ -1,2 +1,3 @@
-# streams
-Streams and stream accessories
+# Streams
+
+Streams and stream accessories for Webaverse and general use.
