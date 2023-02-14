@@ -1,6 +1,6 @@
 {
   "name": "@webaverse-studios/streams",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Streams and stream accessories",
   "main": "index.js",
   "type": "module",
@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@webaverse-studios/eslint-config": "^1.0.0",
+    "eslint": "^8.33.0",
     "eslint-plugin-jsdoc": "^39.7.5",
     "eslint-plugin-promise": "^6.1.1",
     "ospec": "^4.1.7"
